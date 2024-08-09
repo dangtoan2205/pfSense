@@ -5,6 +5,7 @@
 ## CÀI TRÊN VMWARE
 - Custom (advanced)
 - Other || Other 64-bit
+- 
 ![image](https://github.com/user-attachments/assets/6641ccd4-17eb-4702-9d6c-c3db1d9dfd34)
 - Edit virtual machine settings
   Use ISO image file:
