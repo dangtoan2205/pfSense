@@ -16,11 +16,10 @@
 
 - - - - -
 ## KHỞI ĐỘNG VÀ CẤU HÌNH ĐẶT IP TĨNH CHO WAN VÀ LAN
-- Accept
 ![image](https://github.com/user-attachments/assets/548b8b11-525d-4035-bd77-34fe8c5875b0)
-- OK
+
 ![image](https://github.com/user-attachments/assets/5b585f00-a91e-4603-a274-81a3b1b52bfd)
-- Ok
+
 ![image](https://github.com/user-attachments/assets/a107550a-7b1f-4701-89b4-516515c6cd3d)
 
 - 
